@@ -1,2 +1,2 @@
-a, b = 5, 7
-print(a*b)
+a, b, c = 5, 7, 10
+print(a*b*c)
